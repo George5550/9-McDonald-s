@@ -1,2 +1,2 @@
-# 9-McDonald-s
+# McDonald-s
 9 McDonald's website
